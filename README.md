@@ -16,10 +16,10 @@ This app is based on the [Add a scrollable list] Codelab.
 Environment
 
 - Kotlin 1.7.0
-- Android Studio Chipmunk 2021.2.1
+- Android Studio Dolphin 2021.3.1
 - Compose 1.2.0
-- Gradle Plugin 7.2.1
+- Gradle Plugin 7.3.0
 
 ----
 
-updated: 2022-08-06
+updated: 2022-10-05
