@@ -24,7 +24,7 @@ Environment
 
 ```
 language: kotlin
-repo: affirmationscomposed
+repo: affirmations_composed
 status: archived
-updated: 2022-12-03
+updated: 2022-12-05
 ```
