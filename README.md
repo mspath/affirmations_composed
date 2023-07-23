@@ -15,10 +15,10 @@ This app is based on the [Add a scrollable list] Codelab.
 
 Environment
 
-- Kotlin 1.8.20
+- Kotlin 1.9.0
 - Android Studio Flamingo 2022.2.1
-- Compose BOM 2023.04.01
-- Gradle Plugin 8.0.0
+- Compose BOM 2023.06.01
+- Gradle Plugin 8.0.2
 
 ---
 
